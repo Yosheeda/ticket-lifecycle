@@ -45,7 +45,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Support agent John Doe logs in (I typed in the wrong password in this screenshot so ignore "access denied"):
 </p>
 <p>
-  <img src="https://i.imgur.com/21aurqT.png" height="75%" width="100%" alt="Support agent login"/>
+  <img src="https://i.imgur.com/xXJwj14.png" height="75%" width="100%" alt="Support agent login"/>
 </p>
 <br />
 <br />
@@ -68,7 +68,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   System Administrator agent Jane Doe logs in:
 </p>
 <p>
-  <img src="https://i.imgur.com/H5gmdbs.png" height="75%" width="100%" alt="Sys admin agent login"/>
+  <img src="https://i.imgur.com/4L2nVt7.png" height="75%" width="100%" alt="Sys admin agent login"/>
 </p>
 <p>
   Agent Jane works the issue and communicates back to agent John.
